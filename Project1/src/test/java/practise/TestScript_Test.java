@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.Status;
 
-public class TestScript extends BaseClass{
+public class TestScript_Test extends BaseClass{
 	@Test
 	public void clickOnBooks() {
 		hp.getBooksLink().click();

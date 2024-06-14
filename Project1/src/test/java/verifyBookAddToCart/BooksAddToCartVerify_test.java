@@ -12,7 +12,7 @@ import elementRepo.AddToCart;
 import elementRepo.Homepage;
 import elementRepo.LoginPage;
 
-public class BooksAddToCartVerify extends BaseClass1{
+public class BooksAddToCartVerify_test extends BaseClass1{
 
 	@Test(groups = "smoke")
 	public void AddToBook() throws IOException {

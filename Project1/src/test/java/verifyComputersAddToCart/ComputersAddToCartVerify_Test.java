@@ -7,7 +7,7 @@ import com.comcast.crm.BasicUtility.BaseClass1;
 
 import elementRepo.AddToCart;
 
-public class ComputersAddToCartVerify extends BaseClass1{
+public class ComputersAddToCartVerify_Test extends BaseClass1{
 
 	@Test(groups = "integration")
 	public void AddToComputers() {
